@@ -10,4 +10,6 @@
 
 @interface customOP : NSOperation
 
++ (instancetype)download;
+
 @end

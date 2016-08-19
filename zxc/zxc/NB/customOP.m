@@ -10,4 +10,9 @@
 
 @implementation customOP
 
++ (instancetype)download
+{
+    return nil;
+}
+
 @end

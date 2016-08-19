@@ -19,6 +19,8 @@
     [super viewDidLoad];
    
     customOP *op = [[customOP alloc] init];
+    
+    customOP *op3 = [customOP download];
 }
 
 - (void)didReceiveMemoryWarning {
